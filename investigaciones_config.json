@@ -1,0 +1,41 @@
+{
+  "materias": [
+    {
+      "nombre": "Innovacion y Emprendimiento Tecnologico",
+      "prefijo": "IET",
+      "temas": [
+        "Emprendedurismo y su importancia en la formación universitaria, como desarrollar un espíritu emprendedor, tipos de emprendimiento [cite: 2, 3]",
+        "Intención emprendedora, Modelos de intención emprendedora, Impacto en la mentalidad emprendedora de los estudiantes [cite: 4]",
+        "Principales elementos para desarrollar actividades emprendedoras efectivas, Visión y cultura emprendedora [cite: 5]",
+        "Emprendimientos modernos para un mundo moderno, Tecnologías al servicio de los emprendedores [cite: 6]",
+        "Las startups tecnológicas, porqué es importante innovar los modelos de negocio, ejemplos [cite: 7]",
+        "Claves para iniciar un emprendimiento tecnológico (Identificación del problema, Validación, MVP, Financiación) [cite: 8]",
+        "Beneficios clave de la tecnología en el emprendimiento (Productividad, Alcance global, Reducción de costos) [cite: 9]",
+        "Emprendedor Tecnológico: Qué es, Características y Ejemplos [cite: 10]",
+        "Qué es el emprendimiento digital, Tipos y características, Ejemplos [cite: 10]",
+        "Casos de éxito de innovación, desarrollo tecnológico y emprendimiento [cite: 11]",
+        "Ideas para desarrollar Negocios de Tecnología (Sector de la IA, Sector del E-Commerce) [cite: 12]",
+        "Ideas para desarrollar Negocios de Tecnología (Internet de las cosas, Telemedicina y Telecomunicaciones) [cite: 14]"
+      ]
+    },
+    {
+      "nombre": "Gestion Empresarial",
+      "prefijo": "GE",
+      "temas": [
+        "Desarrollo Organizacional: Orígenes, antecedentes, concepto, objetivos, valores y modelos [cite: 30]",
+        "Coaching: antecedentes, definición, niveles, herramientas, fases y competencias [cite: 31]",
+        "Mentoring: definición, aportaciones, fases, perfil del mentor y diferencias con coaching [cite: 32]",
+        "Outdoor training: orígenes, definición, beneficios, etapas, matriz de elección [cite: 33]",
+        "E-business y E-commerce: definiciones, diferencias, ventajas para compañía y consumidor [cite: 34]",
+        "Experimental learning: antecedentes, técnicas, fases y ciclos [cite: 35]",
+        "LEARNABILITY Y TEAMABILITY [cite: 36]",
+        "NETWORKING Y ADAPTABILITY [cite: 37]",
+        "INTERNET DE LAS COSAS E INTELIGENCIA ARTIFICIAL [cite: 38]",
+        "INTELIGENCIA DE NEGOCIOS Y BLOCKCHAIN Y LA NUBE [cite: 39]",
+        "LAS ORGANIZACIONES DEL FUTURO: puntos clave y preparación para el cambio [cite: 40, 41]",
+        "PROPIEDAD INTELECTUAL Y DERECHOS DE AUTOR [cite: 42]"
+      ]
+    }
+  ]
+}
+
